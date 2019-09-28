@@ -5,3 +5,5 @@ class source
 		System.out.println("Add functionality");
 	}	
 }
+
+test source
