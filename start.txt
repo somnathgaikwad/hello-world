@@ -1,4 +1,4 @@
 Test Git Quick Start demo
 Text is added through new branch changesTrach
 Somnath
-git commit testing
+git commit testing inserting the text from git.
